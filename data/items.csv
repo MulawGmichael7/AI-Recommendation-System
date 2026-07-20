@@ -1,0 +1,301 @@
+item_id,title,category,tags,rarity,price_usd,creator_user_id,listed_day
+1,Movie Tv Meme #1,movie-tv,limited-edition|og|brain-expand|cat|wojak|stonks,common,13.1,195,291
+2,Sports Meme #2,sports,surprised-pikachu|rare|ai-generated,epic,139.56,173,131
+3,History Meme Meme #3,history-meme,og|ai-generated|surprised-pikachu|this-is-fine|chad,rare,37.2,181,86
+4,Wojak Meme #4,wojak,surprised-pikachu|chad|rare|ai-generated|distracted-bf|galaxy-brain,common,19.74,434,38
+5,Sports Meme #5,sports,template|drake,common,12.31,432,322
+6,Animal Meme #6,animal,trending|wojak,common,5.13,259,233
+7,Gaming Meme #7,gaming,hand-drawn|ai-generated,uncommon,5.46,316,247
+8,Programmer Humor Meme #8,programmer-humor,drake|rare|brain-expand|galaxy-brain|og,common,3.48,147,8
+9,Surreal Meme #9,surreal,custom-edit|1-of-1|chad|pepe|galaxy-brain,common,5.3,99,317
+10,Surreal Meme #10,surreal,hd|gigachad|spongebob|custom-edit,common,3.63,192,207
+11,Deep Fried Meme #11,deep-fried,among-us|trending|1-of-1|cat|vintage|doge,uncommon,9.11,440,332
+12,History Meme Meme #12,history-meme,doge|npc,common,6.06,283,243
+13,Classic Format Meme #13,classic-format,trending|chad,common,3.88,433,222
+14,Programmer Humor Meme #14,programmer-humor,limited-edition|animated|pepe|static,uncommon,39.58,22,117
+15,Animal Meme #15,animal,surprised-pikachu|spongebob|distracted-bf|doge|vintage|static,epic,24.72,289,336
+16,Classic Format Meme #16,classic-format,1-of-1|animated|dog,common,10.73,107,300
+17,Wojak Meme #17,wojak,1-of-1|doge|cat|chad|limited-edition,common,8.5,428,199
+18,Programmer Humor Meme #18,programmer-humor,dog|npc|template|og|wojak|trending,uncommon,43.25,257,177
+19,Classic Format Meme #19,classic-format,brain-expand|among-us,rare,13.4,175,309
+20,History Meme Meme #20,history-meme,hand-drawn|npc|template|dog|drake|ai-generated,common,8.26,231,251
+21,Animal Meme #21,animal,rare|npc|brain-expand|chad,uncommon,42.68,339,194
+22,Reaction Meme #22,reaction,cat|custom-edit|among-us|trending|doge|static,common,17.38,195,364
+23,History Meme Meme #23,history-meme,og|npc|dog,common,16.43,47,2
+24,Political Satire Meme #24,political-satire,gigachad|template|spongebob|pepe|wojak,common,5.53,221,229
+25,Surreal Meme #25,surreal,galaxy-brain|brain-expand|pepe|drake|doge|gigachad,uncommon,8.43,306,306
+26,History Meme Meme #26,history-meme,animated|npc|drake|cat,common,13.54,399,43
+27,Pet Meme Meme #27,pet-meme,static|among-us|limited-edition|galaxy-brain|chad|vintage,common,18.62,72,137
+28,Political Satire Meme #28,political-satire,surprised-pikachu|wojak|doge|chad,common,11.36,216,153
+29,Deep Fried Meme #29,deep-fried,gigachad|spongebob,epic,139.8,370,320
+30,Deep Fried Meme #30,deep-fried,hand-drawn|stonks|this-is-fine|pepe|wojak|cat,common,5.96,203,170
+31,Sports Meme #31,sports,npc|custom-edit|animated|dog|this-is-fine|hd,common,15.51,422,333
+32,Stonks Finance Meme #32,stonks-finance,cat|dog|hand-drawn,epic,49.8,103,245
+33,Gaming Meme #33,gaming,npc|dog|cat,rare,34.05,325,251
+34,Stonks Finance Meme #34,stonks-finance,dog|npc|spongebob,rare,44.0,202,186
+35,Reaction Meme #35,reaction,stonks|limited-edition|rare|chad|vintage|template,uncommon,22.88,488,236
+36,Pet Meme Meme #36,pet-meme,this-is-fine|custom-edit|cat,rare,26.15,36,209
+37,Programmer Humor Meme #37,programmer-humor,wojak|ai-generated|cat|among-us|spongebob,uncommon,6.03,367,216
+38,History Meme Meme #38,history-meme,doge|this-is-fine|hand-drawn|surprised-pikachu|limited-edition,common,12.41,260,354
+39,Anime Meme #39,anime,distracted-bf|custom-edit|gigachad|trending|static|rare,uncommon,13.49,469,43
+40,Reaction Meme #40,reaction,vintage|gigachad|chad,uncommon,26.03,23,288
+41,Programmer Humor Meme #41,programmer-humor,template|dog|custom-edit|brain-expand|pepe,common,3.51,133,113
+42,Surreal Meme #42,surreal,rare|limited-edition|trending|static|among-us|this-is-fine,common,9.88,238,347
+43,Stonks Finance Meme #43,stonks-finance,wojak|gigachad|drake|surprised-pikachu|pepe|cat,common,10.89,493,43
+44,Reaction Meme #44,reaction,gigachad|cat|dog,uncommon,3.32,106,266
+45,Deep Fried Meme #45,deep-fried,surprised-pikachu|pepe|this-is-fine|og,uncommon,15.53,164,34
+46,Political Satire Meme #46,political-satire,custom-edit|trending,common,3.12,435,175
+47,Programmer Humor Meme #47,programmer-humor,vintage|custom-edit,common,1.74,380,124
+48,Surreal Meme #48,surreal,rare|chad|dog,uncommon,43.56,491,236
+49,Animal Meme #49,animal,ai-generated|chad|vintage|brain-expand|npc,common,6.79,315,101
+50,Deep Fried Meme #50,deep-fried,brain-expand|npc|drake|trending|stonks|custom-edit,common,16.29,361,32
+51,Stonks Finance Meme #51,stonks-finance,custom-edit|animated,uncommon,12.03,188,166
+52,Animal Meme #52,animal,pepe|spongebob|vintage|animated|surprised-pikachu,uncommon,30.34,328,160
+53,Stonks Finance Meme #53,stonks-finance,hand-drawn|npc|limited-edition|pepe|gigachad,common,15.32,235,316
+54,Wojak Meme #54,wojak,1-of-1|hand-drawn|limited-edition|doge,uncommon,26.64,161,60
+55,Animal Meme #55,animal,pepe|chad|gigachad|trending,common,9.7,199,214
+56,Stonks Finance Meme #56,stonks-finance,limited-edition|npc|brain-expand,common,8.53,326,275
+57,Pet Meme Meme #57,pet-meme,rare|chad|surprised-pikachu,common,7.3,96,161
+58,Sports Meme #58,sports,hand-drawn|distracted-bf|animated|gigachad|drake,uncommon,40.99,100,196
+59,Surreal Meme #59,surreal,ai-generated|surprised-pikachu|brain-expand|vintage|static|animated,uncommon,36.74,228,250
+60,Wojak Meme #60,wojak,limited-edition|drake,rare,96.6,113,149
+61,Classic Format Meme #61,classic-format,among-us|rare|cat|chad,rare,14.6,290,253
+62,Surreal Meme #62,surreal,pepe|limited-edition|1-of-1|spongebob|template|rare,rare,73.75,188,277
+63,Sports Meme #63,sports,template|og,common,18.8,112,217
+64,Reaction Meme #64,reaction,cat|animated|distracted-bf,common,4.03,179,44
+65,Deep Fried Meme #65,deep-fried,template|custom-edit,common,1.8,416,301
+66,Pet Meme Meme #66,pet-meme,animated|trending|hand-drawn|ai-generated,common,14.95,316,71
+67,History Meme Meme #67,history-meme,hd|stonks|custom-edit,common,11.7,180,272
+68,Political Satire Meme #68,political-satire,rare|chad|dog|trending|cat|custom-edit,uncommon,37.22,488,263
+69,Movie Tv Meme #69,movie-tv,wojak|template,rare,16.15,471,30
+70,Political Satire Meme #70,political-satire,trending|animated|wojak,common,16.01,365,164
+71,Sports Meme #71,sports,template|hd|vintage,common,4.43,73,295
+72,Programmer Humor Meme #72,programmer-humor,ai-generated|brain-expand|npc|this-is-fine,common,3.69,407,47
+73,Anime Meme #73,anime,og|spongebob|trending|gigachad|this-is-fine|surprised-pikachu,common,3.7,2,47
+74,Pet Meme Meme #74,pet-meme,ai-generated|vintage|trending|gigachad|animated,common,16.38,274,203
+75,Animal Meme #75,animal,hd|stonks|surprised-pikachu|spongebob|dog,rare,67.35,173,280
+76,Stonks Finance Meme #76,stonks-finance,limited-edition|animated|surprised-pikachu,rare,53.5,458,349
+77,History Meme Meme #77,history-meme,distracted-bf|pepe,uncommon,16.5,429,235
+78,Classic Format Meme #78,classic-format,1-of-1|animated,common,17.61,234,0
+79,Anime Meme #79,anime,trending|1-of-1|wojak,rare,40.75,155,81
+80,Sports Meme #80,sports,doge|ai-generated|gigachad|spongebob,common,16.42,341,332
+81,Wojak Meme #81,wojak,npc|ai-generated,common,9.06,359,119
+82,Anime Meme #82,anime,trending|pepe,common,7.85,245,39
+83,Wojak Meme #83,wojak,among-us|galaxy-brain|vintage|this-is-fine|drake|custom-edit,uncommon,20.94,419,61
+84,Sports Meme #84,sports,trending|wojak|surprised-pikachu|doge|among-us,common,6.38,375,52
+85,Reaction Meme #85,reaction,gigachad|static|cat|wojak,common,15.08,417,68
+86,Programmer Humor Meme #86,programmer-humor,doge|galaxy-brain|limited-edition,common,10.3,333,84
+87,Deep Fried Meme #87,deep-fried,og|stonks|ai-generated|wojak,epic,60.36,316,351
+88,Deep Fried Meme #88,deep-fried,doge|static|pepe,common,18.04,64,301
+89,Pet Meme Meme #89,pet-meme,gigachad|brain-expand|dog|custom-edit|wojak,common,7.99,331,43
+90,Animal Meme #90,animal,hand-drawn|1-of-1|og|static|cat|template,epic,133.2,14,337
+91,Movie Tv Meme #91,movie-tv,stonks|galaxy-brain|hand-drawn|og,common,18.18,331,27
+92,History Meme Meme #92,history-meme,surprised-pikachu|npc|pepe,common,12.67,327,304
+93,Reaction Meme #93,reaction,static|drake|gigachad|dog|wojak|npc,rare,13.9,292,215
+94,Gaming Meme #94,gaming,vintage|chad|template|surprised-pikachu|animated|doge,common,18.83,35,7
+95,Political Satire Meme #95,political-satire,distracted-bf|1-of-1|custom-edit,common,12.74,147,321
+96,Pet Meme Meme #96,pet-meme,template|brain-expand|static|trending|npc|doge,uncommon,15.47,276,315
+97,Wojak Meme #97,wojak,doge|cat|galaxy-brain|1-of-1,common,3.22,414,79
+98,Surreal Meme #98,surreal,npc|limited-edition|ai-generated|template,rare,79.9,349,329
+99,Reaction Meme #99,reaction,trending|brain-expand|og|animated,common,12.59,126,44
+100,Movie Tv Meme #100,movie-tv,pepe|this-is-fine|hand-drawn|distracted-bf|cat,uncommon,23.98,337,89
+101,Reaction Meme #101,reaction,trending|wojak,uncommon,39.45,84,254
+102,Gaming Meme #102,gaming,galaxy-brain|custom-edit|hd|og|spongebob|chad,common,15.88,384,137
+103,Pet Meme Meme #103,pet-meme,template|static,common,3.46,414,219
+104,Political Satire Meme #104,political-satire,doge|spongebob|trending|limited-edition|ai-generated|1-of-1,uncommon,14.48,262,184
+105,Classic Format Meme #105,classic-format,animated|limited-edition|chad|gigachad|spongebob,rare,26.75,458,293
+106,Programmer Humor Meme #106,programmer-humor,among-us|og,uncommon,33.02,23,6
+107,Animal Meme #107,animal,surprised-pikachu|gigachad,common,1.15,77,91
+108,Movie Tv Meme #108,movie-tv,rare|custom-edit,epic,139.32,380,335
+109,Anime Meme #109,anime,dog|among-us|brain-expand,epic,184.44,164,138
+110,Sports Meme #110,sports,limited-edition|gigachad,common,17.6,345,26
+111,Wojak Meme #111,wojak,custom-edit|galaxy-brain|distracted-bf,epic,86.04,36,238
+112,Sports Meme #112,sports,template|animated|cat|dog,common,16.51,234,4
+113,Gaming Meme #113,gaming,cat|limited-edition|custom-edit,common,2.66,319,124
+114,Deep Fried Meme #114,deep-fried,limited-edition|surprised-pikachu|template|stonks,rare,85.05,280,125
+115,Wojak Meme #115,wojak,1-of-1|brain-expand,common,2.99,278,177
+116,Programmer Humor Meme #116,programmer-humor,dog|drake,rare,41.25,193,157
+117,Reaction Meme #117,reaction,galaxy-brain|among-us|brain-expand,uncommon,35.31,31,72
+118,Pet Meme Meme #118,pet-meme,doge|distracted-bf|1-of-1|among-us,epic,41.04,267,211
+119,Pet Meme Meme #119,pet-meme,this-is-fine|og|doge|limited-edition,common,4.97,69,326
+120,Sports Meme #120,sports,doge|limited-edition|distracted-bf|brain-expand|vintage,epic,174.96,122,149
+121,Political Satire Meme #121,political-satire,1-of-1|custom-edit|npc|trending,rare,72.7,168,162
+122,Deep Fried Meme #122,deep-fried,among-us|doge|stonks|wojak,rare,65.0,300,55
+123,Wojak Meme #123,wojak,chad|this-is-fine,uncommon,30.87,209,61
+124,Surreal Meme #124,surreal,template|stonks|this-is-fine|cat,uncommon,24.38,437,61
+125,Reaction Meme #125,reaction,custom-edit|vintage|cat,rare,27.05,357,308
+126,Classic Format Meme #126,classic-format,hd|animated|dog,common,7.24,365,127
+127,Gaming Meme #127,gaming,galaxy-brain|distracted-bf|vintage|cat|spongebob,rare,20.2,90,15
+128,Anime Meme #128,anime,rare|og|among-us|pepe|this-is-fine,common,18.21,407,71
+129,Reaction Meme #129,reaction,distracted-bf|hd,rare,59.4,114,66
+130,Animal Meme #130,animal,gigachad|vintage|ai-generated|doge|limited-edition,uncommon,18.3,470,38
+131,Classic Format Meme #131,classic-format,stonks|static,uncommon,20.92,415,65
+132,Reaction Meme #132,reaction,pepe|distracted-bf|this-is-fine|chad,epic,227.64,222,202
+133,Deep Fried Meme #133,deep-fried,npc|vintage,common,3.49,182,109
+134,Movie Tv Meme #134,movie-tv,spongebob|this-is-fine|static,common,11.93,315,317
+135,Stonks Finance Meme #135,stonks-finance,ai-generated|cat|surprised-pikachu,common,10.36,282,245
+136,Classic Format Meme #136,classic-format,spongebob|npc,common,12.42,103,329
+137,Movie Tv Meme #137,movie-tv,among-us|ai-generated|custom-edit|rare|animated|drake,legendary,25.5,401,365
+138,Gaming Meme #138,gaming,rare|custom-edit|surprised-pikachu|gigachad|1-of-1,uncommon,38.52,165,198
+139,Political Satire Meme #139,political-satire,drake|dog|hand-drawn,common,18.68,459,143
+140,Classic Format Meme #140,classic-format,galaxy-brain|gigachad|template|limited-edition|among-us,legendary,345.6,52,126
+141,Programmer Humor Meme #141,programmer-humor,spongebob|rare|hd,rare,70.4,378,28
+142,History Meme Meme #142,history-meme,limited-edition|animated|custom-edit,common,18.49,479,88
+143,Wojak Meme #143,wojak,limited-edition|dog|custom-edit,rare,71.45,184,302
+144,Classic Format Meme #144,classic-format,limited-edition|wojak|stonks|hd,legendary,104.1,452,252
+145,Surreal Meme #145,surreal,chad|surprised-pikachu|distracted-bf|doge,common,11.74,309,112
+146,Classic Format Meme #146,classic-format,surprised-pikachu|drake|dog|hand-drawn|stonks|wojak,common,12.33,91,165
+147,Classic Format Meme #147,classic-format,wojak|limited-edition,uncommon,19.29,73,56
+148,Sports Meme #148,sports,animated|gigachad|doge|static|trending|vintage,common,14.86,52,172
+149,Political Satire Meme #149,political-satire,wojak|chad|og|brain-expand,rare,93.6,492,249
+150,Programmer Humor Meme #150,programmer-humor,chad|trending|rare|static,epic,222.6,403,182
+151,Animal Meme #151,animal,hd|chad|npc|cat|og|trending,common,9.29,91,0
+152,Pet Meme Meme #152,pet-meme,npc|animated|template|limited-edition|distracted-bf|chad,uncommon,5.96,472,313
+153,Animal Meme #153,animal,pepe|surprised-pikachu|wojak|dog|og|doge,common,19.7,164,85
+154,Programmer Humor Meme #154,programmer-humor,hd|trending,uncommon,37.09,374,171
+155,Deep Fried Meme #155,deep-fried,spongebob|stonks,common,2.93,35,179
+156,Political Satire Meme #156,political-satire,og|drake,common,18.46,225,214
+157,Wojak Meme #157,wojak,surprised-pikachu|static|npc|gigachad|rare,common,17.46,425,245
+158,History Meme Meme #158,history-meme,ai-generated|template|vintage|among-us|chad|this-is-fine,common,10.62,434,17
+159,Political Satire Meme #159,political-satire,dog|spongebob,epic,144.36,38,175
+160,Wojak Meme #160,wojak,chad|og|doge|rare|static,legendary,248.4,174,304
+161,Stonks Finance Meme #161,stonks-finance,trending|drake|brain-expand|ai-generated|chad,uncommon,3.45,223,80
+162,Classic Format Meme #162,classic-format,dog|stonks,legendary,211.2,210,356
+163,Surreal Meme #163,surreal,spongebob|vintage|cat|animated|among-us|pepe,common,16.16,293,281
+164,Sports Meme #164,sports,wojak|distracted-bf|gigachad|drake|brain-expand,common,0.59,422,338
+165,Programmer Humor Meme #165,programmer-humor,surprised-pikachu|stonks|pepe|drake|static|chad,uncommon,15.4,42,242
+166,Sports Meme #166,sports,cat|custom-edit,common,8.26,251,338
+167,Political Satire Meme #167,political-satire,ai-generated|rare,common,10.98,190,195
+168,Gaming Meme #168,gaming,this-is-fine|distracted-bf|spongebob,common,18.44,135,115
+169,Sports Meme #169,sports,limited-edition|distracted-bf|wojak|template,uncommon,15.95,50,43
+170,Programmer Humor Meme #170,programmer-humor,custom-edit|rare|brain-expand|template,uncommon,15.99,284,31
+171,Sports Meme #171,sports,hd|galaxy-brain|brain-expand|rare|vintage,rare,74.4,244,293
+172,Movie Tv Meme #172,movie-tv,surprised-pikachu|cat|doge,common,9.32,438,365
+173,Classic Format Meme #173,classic-format,limited-edition|static|galaxy-brain|custom-edit|1-of-1|vintage,legendary,146.4,76,61
+174,History Meme Meme #174,history-meme,chad|stonks|custom-edit|wojak|distracted-bf,common,9.32,350,222
+175,Animal Meme #175,animal,hd|hand-drawn|spongebob,common,3.25,373,34
+176,Reaction Meme #176,reaction,rare|npc|dog|animated|spongebob,uncommon,8.67,470,6
+177,History Meme Meme #177,history-meme,limited-edition|galaxy-brain|custom-edit|brain-expand|pepe|hd,common,10.22,291,301
+178,Stonks Finance Meme #178,stonks-finance,1-of-1|pepe,uncommon,19.07,52,146
+179,Sports Meme #179,sports,static|gigachad|brain-expand|spongebob|npc|ai-generated,uncommon,40.35,312,242
+180,Classic Format Meme #180,classic-format,spongebob|npc|wojak,uncommon,16.65,349,355
+181,Anime Meme #181,anime,npc|static,rare,59.1,354,121
+182,Classic Format Meme #182,classic-format,1-of-1|spongebob|static|gigachad|drake,common,12.83,407,155
+183,Political Satire Meme #183,political-satire,hd|surprised-pikachu|animated|trending,uncommon,1.67,498,116
+184,Wojak Meme #184,wojak,og|this-is-fine|template|hd,common,13.44,374,213
+185,Stonks Finance Meme #185,stonks-finance,stonks|this-is-fine,common,3.97,422,208
+186,Pet Meme Meme #186,pet-meme,template|galaxy-brain|animated|gigachad|hd,common,19.24,406,81
+187,Reaction Meme #187,reaction,trending|galaxy-brain|npc|wojak,rare,17.0,269,291
+188,Classic Format Meme #188,classic-format,stonks|static|hd,common,8.59,30,127
+189,Classic Format Meme #189,classic-format,distracted-bf|1-of-1|gigachad|trending|stonks,common,2.16,422,237
+190,Surreal Meme #190,surreal,ai-generated|1-of-1|pepe|vintage|drake,common,19.94,251,304
+191,Deep Fried Meme #191,deep-fried,animated|surprised-pikachu|limited-edition,uncommon,22.64,177,83
+192,Sports Meme #192,sports,og|hd|trending|doge,common,12.11,198,25
+193,Wojak Meme #193,wojak,template|stonks|animated|among-us|ai-generated|hd,uncommon,3.98,138,333
+194,Anime Meme #194,anime,drake|animated|template|static|vintage|1-of-1,uncommon,33.26,68,331
+195,Wojak Meme #195,wojak,custom-edit|drake|among-us|spongebob|hand-drawn|cat,uncommon,10.1,364,329
+196,Political Satire Meme #196,political-satire,static|npc|animated|gigachad|this-is-fine,common,18.01,239,154
+197,Programmer Humor Meme #197,programmer-humor,hd|hand-drawn|npc|limited-edition|pepe|drake,uncommon,9.9,340,191
+198,Surreal Meme #198,surreal,hand-drawn|cat|static|vintage|pepe|surprised-pikachu,common,4.22,142,327
+199,Gaming Meme #199,gaming,spongebob|ai-generated|trending|static,uncommon,2.66,97,76
+200,Surreal Meme #200,surreal,static|distracted-bf|custom-edit,rare,48.55,415,307
+201,Anime Meme #201,anime,vintage|wojak|og|drake,uncommon,25.32,152,132
+202,Movie Tv Meme #202,movie-tv,npc|og|distracted-bf|limited-edition|trending,legendary,53.4,418,97
+203,Gaming Meme #203,gaming,vintage|rare|ai-generated,rare,78.1,465,343
+204,Gaming Meme #204,gaming,cat|animated|chad|hd|vintage|rare,common,9.34,50,241
+205,Wojak Meme #205,wojak,og|custom-edit|rare|template,epic,128.76,485,348
+206,Movie Tv Meme #206,movie-tv,ai-generated|doge|among-us|gigachad,common,9.09,447,157
+207,Anime Meme #207,anime,gigachad|spongebob|limited-edition|cat,uncommon,18.28,61,240
+208,Classic Format Meme #208,classic-format,limited-edition|hand-drawn|doge|surprised-pikachu|stonks|galaxy-brain,common,11.41,349,195
+209,Surreal Meme #209,surreal,brain-expand|distracted-bf|animated|wojak,common,3.53,103,175
+210,Anime Meme #210,anime,static|this-is-fine|wojak|dog|trending|chad,rare,20.25,250,170
+211,Programmer Humor Meme #211,programmer-humor,dog|ai-generated|distracted-bf,common,17.3,141,107
+212,History Meme Meme #212,history-meme,limited-edition|template|chad,uncommon,41.69,391,45
+213,Wojak Meme #213,wojak,brain-expand|ai-generated|1-of-1|npc|animated|surprised-pikachu,common,7.78,20,273
+214,Animal Meme #214,animal,drake|static|dog|template,rare,28.9,98,9
+215,Programmer Humor Meme #215,programmer-humor,ai-generated|og,common,13.06,356,176
+216,Political Satire Meme #216,political-satire,pepe|npc|galaxy-brain,uncommon,18.63,86,33
+217,Sports Meme #217,sports,cat|this-is-fine,uncommon,2.2,306,268
+218,Gaming Meme #218,gaming,static|vintage|wojak|dog|surprised-pikachu,common,3.54,97,84
+219,Movie Tv Meme #219,movie-tv,drake|among-us|og|wojak|stonks,rare,72.3,302,258
+220,Wojak Meme #220,wojak,gigachad|trending,uncommon,29.37,20,192
+221,Movie Tv Meme #221,movie-tv,template|rare|hand-drawn|distracted-bf,uncommon,2.27,25,338
+222,Reaction Meme #222,reaction,distracted-bf|trending,common,4.83,228,194
+223,Reaction Meme #223,reaction,spongebob|surprised-pikachu|trending|wojak|stonks|animated,uncommon,11.02,5,154
+224,Anime Meme #224,anime,vintage|galaxy-brain,common,13.6,311,358
+225,Wojak Meme #225,wojak,hd|static|pepe|galaxy-brain|og,uncommon,1.94,145,58
+226,History Meme Meme #226,history-meme,surprised-pikachu|stonks,uncommon,5.57,399,134
+227,Sports Meme #227,sports,stonks|gigachad|trending|brain-expand|cat|chad,common,16.1,255,106
+228,Pet Meme Meme #228,pet-meme,dog|among-us|drake|vintage|doge,epic,47.76,428,293
+229,Programmer Humor Meme #229,programmer-humor,wojak|doge|template|galaxy-brain|og,uncommon,29.11,464,131
+230,Programmer Humor Meme #230,programmer-humor,this-is-fine|cat|spongebob,uncommon,11.31,52,89
+231,Sports Meme #231,sports,animated|cat,common,2.44,347,160
+232,Anime Meme #232,anime,pepe|animated,rare,26.2,24,4
+233,Sports Meme #233,sports,vintage|ai-generated|chad,common,14.58,458,224
+234,Stonks Finance Meme #234,stonks-finance,static|og|doge|gigachad,rare,85.95,94,58
+235,Anime Meme #235,anime,this-is-fine|spongebob|hd|npc|trending,rare,83.45,410,215
+236,Programmer Humor Meme #236,programmer-humor,pepe|wojak|trending,uncommon,18.15,483,81
+237,Reaction Meme #237,reaction,1-of-1|limited-edition|surprised-pikachu|custom-edit|vintage,common,13.53,313,194
+238,History Meme Meme #238,history-meme,hand-drawn|drake|animated|vintage,rare,22.5,373,66
+239,Deep Fried Meme #239,deep-fried,pepe|static|brain-expand|this-is-fine|distracted-bf,common,6.22,336,160
+240,Classic Format Meme #240,classic-format,template|og|limited-edition|static|animated|among-us,legendary,539.4,343,173
+241,Surreal Meme #241,surreal,trending|1-of-1|hand-drawn|pepe|brain-expand|vintage,uncommon,1.65,247,177
+242,Programmer Humor Meme #242,programmer-humor,wojak|hd|rare|static|hand-drawn,common,2.17,330,80
+243,Surreal Meme #243,surreal,animated|surprised-pikachu|chad|doge|template,uncommon,10.01,124,169
+244,Political Satire Meme #244,political-satire,galaxy-brain|among-us,uncommon,2.24,194,206
+245,Sports Meme #245,sports,doge|this-is-fine|custom-edit,uncommon,8.89,46,255
+246,Deep Fried Meme #246,deep-fried,pepe|surprised-pikachu|og|ai-generated,common,11.87,207,211
+247,Classic Format Meme #247,classic-format,rare|drake|hd|doge|custom-edit|hand-drawn,epic,104.64,327,155
+248,Movie Tv Meme #248,movie-tv,rare|stonks|ai-generated|vintage|this-is-fine|dog,common,17.91,28,114
+249,Sports Meme #249,sports,dog|rare|template|hand-drawn|surprised-pikachu,uncommon,36.17,187,231
+250,Reaction Meme #250,reaction,template|vintage,common,7.17,175,181
+251,Sports Meme #251,sports,rare|galaxy-brain|gigachad|trending,common,5.56,460,84
+252,Deep Fried Meme #252,deep-fried,hd|trending|og,uncommon,17.38,55,130
+253,Stonks Finance Meme #253,stonks-finance,stonks|pepe|1-of-1,rare,60.05,111,234
+254,Sports Meme #254,sports,trending|dog|pepe,rare,28.65,24,324
+255,Sports Meme #255,sports,pepe|template|this-is-fine|animated|vintage|limited-edition,epic,152.04,69,255
+256,Classic Format Meme #256,classic-format,og|distracted-bf|rare|brain-expand|limited-edition|surprised-pikachu,epic,101.76,400,90
+257,Pet Meme Meme #257,pet-meme,chad|og|hd|wojak|pepe|npc,uncommon,24.77,311,164
+258,Surreal Meme #258,surreal,brain-expand|hand-drawn|1-of-1|trending|template,common,9.0,204,175
+259,Political Satire Meme #259,political-satire,custom-edit|wojak|brain-expand|hand-drawn|trending,rare,31.2,263,153
+260,Sports Meme #260,sports,animated|dog|trending|og|rare|ai-generated,common,18.99,108,319
+261,Pet Meme Meme #261,pet-meme,vintage|gigachad|1-of-1|wojak,legendary,461.7,333,91
+262,Surreal Meme #262,surreal,trending|ai-generated|dog|1-of-1|pepe|template,common,3.23,246,298
+263,Stonks Finance Meme #263,stonks-finance,vintage|og|static|hd|rare,common,17.44,434,216
+264,History Meme Meme #264,history-meme,galaxy-brain|pepe,common,10.0,75,27
+265,Programmer Humor Meme #265,programmer-humor,stonks|spongebob,rare,89.7,83,146
+266,Programmer Humor Meme #266,programmer-humor,wojak|hd|distracted-bf|trending,rare,80.5,105,277
+267,Classic Format Meme #267,classic-format,hd|this-is-fine|pepe|hand-drawn,rare,43.95,379,287
+268,Sports Meme #268,sports,og|ai-generated|rare,common,0.94,262,356
+269,Political Satire Meme #269,political-satire,1-of-1|npc,common,5.74,490,350
+270,Gaming Meme #270,gaming,distracted-bf|drake|og|spongebob|stonks|hand-drawn,rare,55.3,441,226
+271,Sports Meme #271,sports,1-of-1|ai-generated|trending,uncommon,28.27,189,301
+272,Surreal Meme #272,surreal,stonks|template|og|1-of-1|cat|this-is-fine,common,5.53,350,38
+273,Wojak Meme #273,wojak,og|galaxy-brain|pepe,common,3.22,220,142
+274,Surreal Meme #274,surreal,wojak|chad|limited-edition|animated,common,16.78,170,238
+275,Pet Meme Meme #275,pet-meme,distracted-bf|wojak|1-of-1,common,19.7,27,320
+276,Stonks Finance Meme #276,stonks-finance,surprised-pikachu|custom-edit|limited-edition|rare,common,10.75,402,362
+277,Gaming Meme #277,gaming,among-us|chad|galaxy-brain|doge|custom-edit|animated,common,3.85,279,274
+278,Anime Meme #278,anime,gigachad|among-us,rare,29.05,340,169
+279,Gaming Meme #279,gaming,cat|stonks|template|hand-drawn,uncommon,1.89,288,332
+280,Classic Format Meme #280,classic-format,vintage|gigachad,common,18.33,464,328
+281,Stonks Finance Meme #281,stonks-finance,among-us|distracted-bf|vintage|dog|npc|pepe,common,2.8,277,144
+282,Classic Format Meme #282,classic-format,hd|template|gigachad|galaxy-brain|custom-edit|1-of-1,common,11.74,23,151
+283,Movie Tv Meme #283,movie-tv,dog|galaxy-brain|doge,epic,70.08,86,275
+284,Surreal Meme #284,surreal,ai-generated|doge,common,11.31,323,109
+285,Sports Meme #285,sports,hd|pepe|stonks|rare|trending,rare,66.0,380,222
+286,Programmer Humor Meme #286,programmer-humor,og|vintage,common,16.68,236,169
+287,Classic Format Meme #287,classic-format,doge|distracted-bf,common,4.53,129,285
+288,Reaction Meme #288,reaction,hd|among-us|spongebob|brain-expand|npc|this-is-fine,uncommon,1.56,222,161
+289,Classic Format Meme #289,classic-format,vintage|pepe|rare|drake|ai-generated,uncommon,6.97,33,299
+290,Classic Format Meme #290,classic-format,gigachad|1-of-1,uncommon,39.71,149,351
+291,Political Satire Meme #291,political-satire,doge|cat|template|this-is-fine|npc|custom-edit,rare,87.7,16,242
+292,Wojak Meme #292,wojak,among-us|wojak|og|npc|custom-edit|rare,common,12.15,325,73
+293,Political Satire Meme #293,political-satire,drake|rare|animated|wojak,common,12.21,3,293
+294,Stonks Finance Meme #294,stonks-finance,rare|doge|cat|stonks|og,rare,67.35,372,176
+295,Animal Meme #295,animal,static|ai-generated|animated|galaxy-brain|wojak,common,3.92,114,315
+296,Sports Meme #296,sports,stonks|pepe|chad|vintage,rare,91.65,437,27
+297,Sports Meme #297,sports,this-is-fine|ai-generated|rare|doge|cat|vintage,common,8.67,51,101
+298,Pet Meme Meme #298,pet-meme,surprised-pikachu|dog|gigachad|wojak|vintage|ai-generated,common,7.97,146,317
+299,Reaction Meme #299,reaction,dog|surprised-pikachu|this-is-fine,common,10.62,338,156
+300,Pet Meme Meme #300,pet-meme,wojak|limited-edition|static|gigachad|custom-edit|dog,epic,17.04,87,2
